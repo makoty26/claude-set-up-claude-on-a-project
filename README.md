@@ -6,6 +6,7 @@ You'll take everything from Units 1 and 2 and put it to work on a real codebase:
 
 This is also the repository you'll keep building on as the course continues — each level's project adds to it, all the way to a shareable plugin at the end.
 
+
 ### What you'll deliver
 
 On your branch of this repo:
