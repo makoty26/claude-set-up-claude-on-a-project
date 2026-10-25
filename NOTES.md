@@ -20,5 +20,5 @@ Without the `.env` deny rule, Claude could read real secrets (such as a `DATABAS
 
 ## Verification
 
-- `/memory`: TODO, confirm `CLAUDE.md` is listed as loaded.
-- `/permissions`: TODO, confirm the allow / ask / deny rules above appear.
+- `/memory`: 実行し、`CLAUDE.md` がプロジェクトのコンテキストとして正しく読み込まれていることを確認しました。
+- `/permissions`: 実行し、テストコマンドの許可（allow）ルールと、`.env` ファイルの読み取り拒否（deny）ルールが設定されていることを確認しました。
